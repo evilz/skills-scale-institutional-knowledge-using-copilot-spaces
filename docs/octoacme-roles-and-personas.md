@@ -84,7 +84,7 @@ Manages CI/CD pipelines and infrastructure automation to ensure reliable and eff
 - Manage and optimize CI/CD pipelines
 - Ensure infrastructure automation and reliability
 - Collaborate with developers on release readiness and deployment plans
-- Assists Project Manager with deployment timelines and rollback plans
+- Assist Project Manager with deployment timelines and rollback plans
 
 ### Goals
 - Streamline deployment processes
@@ -106,7 +106,7 @@ Designs user-centric interfaces and experiences to ensure usability and accessib
 - Create wireframes, mockups, and prototypes
 - Conduct usability testing and research
 - Advocate for accessibility standards
-- Partners with Product Manager for requirements and acceptance criteria
+- Partner with Product Manager for requirements and acceptance criteria
 
 ### Goals
 - Maximize user satisfaction and ease of use
@@ -127,7 +127,7 @@ Maintains high documentation standards to ensure process and technical artifacts
 - Update and maintain technical and process documentation
 - Create user guides and release notes
 - Collaborate with teams to identify documentation gaps
-- Keeps documentation current and clear across all roles
+- Keep documentation current and clear across all roles
 
 ### Goals
 - Improve information discoverability and clarity
@@ -148,7 +148,7 @@ Provides strategic guidance, funding, and escalation support for projects.
 - Validate strategic alignment and expected outcomes
 - Provide funding and resource support
 - Act as the final escalation point for critical blockers
-- Receives updates from Project Manager and approves major milestones
+- Receive updates from Project Manager and approve major milestones
 
 ### Goals
 - Ensure project delivery aligns with business objectives
