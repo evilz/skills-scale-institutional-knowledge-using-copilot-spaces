@@ -75,6 +75,91 @@ Project Managers coordinate delivery activities, manage schedules, risks, and co
 
 ---
 
+## DevOps Engineer
+
+### Role Summary
+Manages CI/CD pipelines and infrastructure automation to ensure reliable and efficient software delivery.
+
+### Responsibilities
+- Manage and optimize CI/CD pipelines
+- Ensure infrastructure automation and reliability
+- Collaborate with developers on release readiness and deployment plans
+- Assist Project Manager with deployment timelines and rollback plans
+
+### Goals
+- Streamline deployment processes
+- Minimize downtime and deployment errors
+- Improve infrastructure observability
+
+### Typical Communication
+- Release planning and deployment syncs
+- Collaboration with developers on PRs and CI failures
+
+---
+
+## UI/UX Designer
+
+### Role Summary
+Designs user-centric interfaces and experiences to ensure usability and accessibility.
+
+### Responsibilities
+- Create wireframes, mockups, and prototypes
+- Conduct usability testing and research
+- Advocate for accessibility standards
+- Partner with Product Manager for requirements and acceptance criteria
+
+### Goals
+- Maximize user satisfaction and ease of use
+- Align design with product vision and technical feasibility
+
+### Typical Communication
+- Design reviews with Product Managers and Developers
+- Sprint planning for feature requirements
+
+---
+
+## Technical Writer
+
+### Role Summary
+Maintains high documentation standards to ensure process and technical artifacts are clear and accessible.
+
+### Responsibilities
+- Update and maintain technical and process documentation
+- Create user guides and release notes
+- Collaborate with teams to identify documentation gaps
+- Keep documentation current and clear across all roles
+
+### Goals
+- Improve information discoverability and clarity
+- Reduce onboarding time through high-quality documentation
+
+### Typical Communication
+- Coordination with all roles for documentation updates
+- Release syncs for release notes preparation
+
+---
+
+## Sponsor / Executive Stakeholder
+
+### Role Summary
+Provides strategic guidance, funding, and escalation support for projects.
+
+### Responsibilities
+- Validate strategic alignment and expected outcomes
+- Provide funding and resource support
+- Act as the final escalation point for critical blockers
+- Receive updates from Project Manager and approve major milestones
+
+### Goals
+- Ensure project delivery aligns with business objectives
+- Maximize ROI and strategic impact
+
+### Typical Communication
+- Monthly stakeholder updates
+- High-level milestone reviews and approvals
+
+---
+
 ## How these personas are used in the exercise
 - Use these persona definitions to frame scenarios and sample interactions in the Skills Exercise.
 - Each persona can be used as a persona prompt for Copilot Spaces to shape role-specific guidance.
