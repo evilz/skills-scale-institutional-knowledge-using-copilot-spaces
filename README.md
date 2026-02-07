@@ -10,6 +10,8 @@
 
 **Show off your new skills and inspire others!**
 
+Tip: if you completed the exercise in a fork, update the repository URL in the share links below.
+
 <a href="https://twitter.com/intent/tweet?text=I%20just%20completed%20the%20%22Scale%20institutional%20knowledge%20using%20Copilot%20Spaces%22%20GitHub%20Skills%20hands-on%20exercise!%20%F0%9F%8E%89%0A%0Ahttps%3A%2F%2Fgithub.com%2Fevilz%2Fskills-scale-institutional-knowledge-using-copilot-spaces%0A%0A%23GitHubSkills%20%23OpenSource%20%23GitHubLearn" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Share%20on%20X-1da1f2?style=for-the-badge&logo=x&logoColor=white" alt="Share on X" />
 </a>
